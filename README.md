@@ -1,6 +1,6 @@
 # Visualize Earthquake Data
 
-![alt text](https://raw.githubusercontent.com/Supriya0115/Leaflet_Visualization/blob/master/Dashboard.JPG)
+![alt text](https://github.com/Supriya0115/Leaflet_Visualization/blob/master/Dashboard.JPG)
 
 
 •	The USGS provides earthquake data in  different formats, updated every 5 minutes. On the USGS GeoJSON Feed page and when you click on 'All Earthquakes from the Past 7 Days', you will be given a JSON representation of that data. 
